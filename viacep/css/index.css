@@ -1,0 +1,23 @@
+body{
+    font: Arial 26px black;
+}
+
+.containerOutput{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.containerOutput label{
+    margin-left: 10px;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    height: 90px;
+}
